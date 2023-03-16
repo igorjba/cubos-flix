@@ -71,7 +71,7 @@ A página consiste em um catálogo de filmes e séries, que oferece ao usuário 
 
 #### Seção  
 
-- Modal ![](https://i.ibb.co/zQstwZw/modal-dark.png "Modal - Dark Mode")
+- Modal ![](https://i.ibb.co/h8LbgLk/modal-dark1.png "Modal - Dark Mode")
 
 
 
