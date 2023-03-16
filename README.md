@@ -10,7 +10,7 @@
 
 ## Como visualizar o projeto
 
-Para visualizar o projeto, basta acessar o link: [https://igorjba.github.io/desafio-frontend-M03-2023](https://igorjba.github.io/desafio-frontend-M03-2023)
+Para visualizar o projeto, basta acessar o link: [https://igorjba.github.io/cubos-flix/](https://igorjba.github.io/cubos-flix/)
 
 ## Sobre
  
